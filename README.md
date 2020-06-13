@@ -1,4 +1,4 @@
 # Hanne was here
 Letting my friends know I was there
 
-<img src="docs/img/hanne was here white 500x500.png">
+<img src="docs/img/README 500x500.png">
