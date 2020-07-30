@@ -1,0 +1,10 @@
+- mondmasker
+
+- het TODO object dat in de scene staat hier zetten
+
+- geboorte aankondiging patroon herbruiken
+- thickness lijnen sculpten
+
+KLEUREN
+- transparant face sticker (zoals mijn andere stickers)
+- onrealistische kleuren
