@@ -1,10 +1,15 @@
-- mondmasker
-
-- het TODO object dat in de scene staat hier zetten
-
+TODO
+- mondmasker (copieren van geboortekaartje)
 - geboorte aankondiging patroon herbruiken
 - thickness lijnen sculpten
+- grease pencil pattern gebruiken
 
 KLEUREN
 - transparant face sticker (zoals mijn andere stickers)
 - onrealistische kleuren
+- kurk patroon
+- black marble face en white marble BG & omgekeerd
+
+ANIMATIE
+- ogen laten knipperen
+- chromatic abboration animeren
