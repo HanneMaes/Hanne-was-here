@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+
+a {
+  font-size: 30px;
+  color: rgba(0, 0, 0, 0.5);
+  font-weight: 900;
+
+  text-decoration: none;
+
+  margin-top:    20px;
+  margin-bottom: 20px;
+}
+a:hover {
+  color: rgba(0, 0, 0, 1);
+}
